@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "516708625041",
+    "firebase_url": "https://to-do-9e1f6.firebaseio.com",
+    "project_id": "to-do-9e1f6",
+    "storage_bucket": "to-do-9e1f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516708625041:android:6f1366fcda992fc7",
+        "android_client_info": {
+          "package_name": "com.akvashi.focused.a8todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516708625041-hqpeskop3n12fs0l0o628b632jhjssma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMi9syQYX4eFwpex0qeTJfuEq4WMOkbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
